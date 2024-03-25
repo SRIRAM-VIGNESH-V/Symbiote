@@ -10,7 +10,7 @@ Author: SRIRAM VIGNESH V
 
 Symbiote is a invisible network sniffer for finding vulnerabilities in network equipment. It is based entirely on network traffic analysis, so it does not make any noise on the air. Symbiote is completely invisible. Purely based on the Scapy library.
 
-> Symbiote allows pentesters to automate the process of finding vulnerabilities in network hardware. Discovery protocols, dynamic routing, FHRP, STP, LLMNR/NBT-NS, etc.
+Symbiote allows pentesters to automate the process of finding vulnerabilities in network hardware. Discovery protocols, dynamic routing, FHRP, STP, LLMNR/NBT-NS, etc.
 
 ## Supported protocols
 
@@ -88,7 +88,7 @@ When Symbiote detects a protocol, it outputs the necessary information to indica
 
 ---
 
-> The development of this version of Symbiote was based on Python version **3.11.6**, Scapy version **2.5.0.dev212**
+
 
 
 # How to Use
