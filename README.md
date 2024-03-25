@@ -1,6 +1,6 @@
-#  Project Symbiote
+#  Symbiote
 
-Invisible protocol sniffer for finding vulnerabilities in the network and a network hardening tool based on Scapy.
+Symbiote is a invisible protocol sniffer for finding vulnerabilities in the network and a network hardening tool based on Scapy.
 
 Author: SRIRAM VIGNESH V
 
