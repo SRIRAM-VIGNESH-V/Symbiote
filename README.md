@@ -1,6 +1,6 @@
 #  Project Symbiote
 
-Invisible protocol sniffer for finding vulnerabilities in the network. Designed for pentesters and security engineers.
+Invisible protocol sniffer for finding vulnerabilities in the network and a network hardening tool based on SCAPY.
 
 Author: SRIRAM VIGNESH V
 
